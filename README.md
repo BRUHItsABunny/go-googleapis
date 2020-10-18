@@ -26,3 +26,14 @@ go get github.com/BRUHItsABunny/gOkHttp
 You can find examples in the `_examples` folder.
 
 You may need to find your own API keys, this library is based on reversed Android clients so most likely you won't want to use this library and settle with the standard Golang SDK for these API's.
+
+These API's are free:
+* Google Translate
+* Google TTS based on the Google Translate API's
+* Google Auto Complete
+
+These API's require keys:
+* Google Maps API
+* Google Vision API
+
+Library provided as is, usage is at own risk and you will solely be responsible for whatever you do
